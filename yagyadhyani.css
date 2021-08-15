@@ -1,0 +1,110 @@
+.videocenter {
+	text-align: center;
+	padding: 100px;
+}
+#viddesc {
+	height: 200px;
+	overflow: hidden;
+	padding: 10px;
+	text-align: left;
+}
+#vidtitle {
+	text-align: left;
+	padding-left: 10px;
+	color: rgba(255, 99, 99, 1);
+}
+#videoplayer {
+	text-align: center;
+	width: 720px;
+	height: auto;
+}
+#sidebar {
+	padding: 50px;
+	text-align: center;
+}
+
+#videocontainer {
+	justify-content: center;
+	align-items: center;
+}
+
+.results {
+	padding: 10px;
+	border-bottom: 1px solid rgba(255, 99, 99, 1);
+	background-color: #272727;
+	color: white;
+}
+
+#searchb {
+	width: 500px;
+	background-color: #121212;
+	border-color: #bb86fc;
+	border-radius: 10px;
+	border-width: 2px;
+	color: white;
+}
+
+#searchbutton {
+	background-color: #272727;
+	color: #bb86fc;
+	border: 0px;
+}
+
+#videocontainer {
+	width: 724px;
+	background-color: #272727;
+	color: white;
+	border-color: #bb86fc;
+	border-width: 2px;
+}
+
+body {
+	background-color: #121212;
+}
+
+nav {
+	background-color: #272727;
+}
+
+.card2 {
+	border: 0px;
+}
+
+.home {
+	color: #bb86fc;
+}
+
+#suggestitle {
+	background-color: #121212;
+	margin: 0px;
+	color: white;
+}
+
+#suggestthumbnail {
+	width: 200px;
+	background-color: #121212;
+}
+
+.sug {
+	background-color: #121212;
+	margin: 10px;
+}
+
+#suggestions {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	background-color: #121212;
+	margin-top: 10px;
+	border-color: rgba(255, 99, 99, 1);
+	border-width: 2px;
+}
+
+#resultTitle {
+	color: rgba(255, 99, 99, 1);
+}
+
+#sugTitle {
+	color: rgba(255, 99, 99, 1);
+	margin-top: 40px;
+}
